@@ -1,1 +1,2 @@
 # Nashville-Housing
+In this SQL project, we'll clean and structure housing data from Nashville to ensure uniformity and accuracy for analysis. We'll standardize date formats, populate missing property address data, update fields for clarity, remove duplicates, and trim unnecessary columns. By streamlining the dataset, we pave the way for insightful analysis, including exploring data completeness, average prices, top owners, sales distribution by Land Use, and seasonal sales patterns.
